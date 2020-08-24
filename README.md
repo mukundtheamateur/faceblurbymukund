@@ -6,9 +6,11 @@
 
 #you can do this project without creating an environment but it is good practice to create one , so i did this project in an environment: 
 
---> IN THIS PROJECT WE WILL USE ANACONDA FOR CREATING A VIRTUAL ENVIRONMENT.
+--> IN THIS PROJECT WE WILL USE ANACONDA FOR CREATING A VIRTUAL ENVIRONMENT. 
 
-install anaconda from link : "https://docs.anaconda.com/anaconda/install/" 
+Editor i used : visual studio code , to install click here "https://code.visualstudio.com/download"
+i used command prompt to run my code. if you are using mac u can use terminal. 
+install anaconda from link : "https://docs.anaconda.com/anaconda/install/"
 
 to create a virtual environment from anaconda :
 " conda create -n nameofenvironment python=3.6.7"  // this project is made in python=3.6.7 version 
