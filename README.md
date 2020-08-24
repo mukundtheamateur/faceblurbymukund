@@ -4,7 +4,7 @@
 (1).Gaussian 
 (2).Pixelate
 
-#you can do this project without creating an environment but it is good practice , so i did this project in an environment: 
+#you can do this project without creating an environment but it is good practice to create one , so i did this project in an environment: 
 
 --> IN THIS PROJECT WE WILL USE ANACONDA FOR CREATING A VIRTUAL ENVIRONMENT.
 
