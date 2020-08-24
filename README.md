@@ -10,6 +10,7 @@
 
 Editor i used : visual studio code , to install click here "https://code.visualstudio.com/download"
 i used command prompt to run my code. if you are using mac u can use terminal. 
+
 install anaconda from link : "https://docs.anaconda.com/anaconda/install/"
 
 to create a virtual environment from anaconda :
