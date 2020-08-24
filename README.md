@@ -1,24 +1,24 @@
 # faceblurbymukund
-IN THIS PROJECT , 
-their is two type of blur option 
-(1). Gaussian 
-(2). Pixelate
+## IN THIS PROJECT , \n
+## their is two type of blur option \n
+(1).Gaussian \n
+(2).Pixelate\n
 
-yo can do this project without creating an environment but it is good practice , so i did this project in an environment:
+#you can do this project without creating an environment but it is good practice , so i did this project in an environment: \n 
 
---> IN THIS PROJECT WE WILL USE ANACONDA FOR CREATING A VIRTUAL ENVIRONMENT.
+--> IN THIS PROJECT WE WILL USE ANACONDA FOR CREATING A VIRTUAL ENVIRONMENT.\n\n
 
-install anaconda from link : "https://docs.anaconda.com/anaconda/install/"
+install anaconda from link : "https://docs.anaconda.com/anaconda/install/" \n
 
-to create a virtual environment from anaconda :
-" conda create -n nameofenvironment python=3.6.7"  // this project is made in python=3.6.7 version
-                                                   // for me nameofmyenv is faceblur 
+to create a virtual environment from anaconda :\n
+" conda create -n nameofenvironment python=3.6.7"  // this project is made in python=3.6.7 version \n
+                                                   // for me nameofmyenv is faceblur \n
  
- My directory path is c:/mukund/desktop/python/day7/
+ My directory path is c:/mukund/desktop/python/day7/ \n
  
- to activate virtual environment:
- "conda activate faceblur" 
- /nto import cv2 we need to first install opencv in our environment . to do that : 
+ to activate virtual environment: \n
+ "conda activate faceblur" \n
+ \nto import cv2 we need to first install opencv in our environment . to do that : 
  "pip install opencv-python opencv-contrib-python"
  numpy is already included in opencv . you don't need to install that too .
  
