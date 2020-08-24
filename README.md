@@ -1,4 +1,8 @@
 # faceblurbymukund
+IN THIS PROJECT , 
+their is two type of blur option 
+(1). Gaussian 
+(2). Pixelate
 
 yo can do this project without creating an environment but it is good practice , so i did this project in an environment:
 
@@ -28,7 +32,4 @@ to create a virtual environment from anaconda :
  ## make sure your webcam is working.
  ## make sure that you put harcascade file in the same directory. 
  
-IN THIS PROJECT , 
-their is two type of blur option 
-(1). Gaussian 
-(2). Pixelate
+
