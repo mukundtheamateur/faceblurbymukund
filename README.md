@@ -13,12 +13,12 @@ install anaconda from link : "https://docs.anaconda.com/anaconda/install/"
 to create a virtual environment from anaconda :
 " conda create -n nameofenvironment python=3.6.7"  // this project is made in python=3.6.7 version
                                                    // for me nameofmyenv is faceblur 
+ 
  My directory path is c:/mukund/desktop/python/day7/
  
  to activate virtual environment:
  "conda activate faceblur" 
- 
- to import cv2 we need to first install opencv in our environment . to do that : 
+ /nto import cv2 we need to first install opencv in our environment . to do that : 
  "pip install opencv-python opencv-contrib-python"
  numpy is already included in opencv . you don't need to install that too .
  
