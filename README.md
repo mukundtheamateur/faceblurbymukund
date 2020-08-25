@@ -1,6 +1,6 @@
 # faceblurbymukund
 ## THIS is opencv PROJECT , 
-## their are two type of blur option 
+## their are two types of blur option 
 (1).Gaussian 
 (2).Pixelate
 
