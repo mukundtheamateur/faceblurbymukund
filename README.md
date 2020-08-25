@@ -1,6 +1,6 @@
 # faceblurbymukund
 ## IN THIS PROJECT , 
-## their is two type of blur option 
+## their are two type of blur option 
 (1).Gaussian 
 (2).Pixelate
 
